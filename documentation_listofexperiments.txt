@@ -1,0 +1,57 @@
+Module 1,2,3
+1) Open anaconda prompt window
+2) type: pip install gymnasium --user
+3) spyder
+4) Once the spyder is launched on the spyder console type:
+pip install pygame
+
+Module4
+
+gym-bandit
+if git is not supported, type 
+1) conda install -c anaconda git 
+2) git clone https://github.com/JKCooper2/gym-bandits
+3) cd gym-bandits
+4) pip install -e .
+
+List of experiments
+1) Implementation of frozenlake environment.
+2) Implementation of cartpole environment.
+3) Implementation of value iteration algorithm using
+frozenlake environment.
+4) Implementation of policy iteration algorithm using
+frozenlake environment.
+5) Implementation of MC first visit prediction algorithm using
+blackjack environment.
+6) Implementation of MC every visit prediction algorithm using
+blackjack environment.
+7) Implementation of MC every visit control(Q) algorithm using
+blackjack environment.
+8) Implementation of MC first visit control(Q) algorithm using
+blackjack environment.
+9) Implementation of MC control on policy algorithm using
+blackjack environment.
+10) Implementation of TD prediction algorithm using
+frozenlake environment.
+11) Implementation of TD control SARSA algorithm using
+frozenlake environment.
+12) Implementation of TD control Q-learning algorithm using
+frozenlake environment.
+13) Implementation of epsilon-greeedy algorithm using
+bandit environment.
+14) Implementation of softmax exploration algorithm using
+bandit environment.
+15) Implementation of UCB algorithm using
+bandit environment.
+16) Implementation of Thompson sampling algorithm 
+using bandit environment.
+17) Implementation of to find the how to find the best advertisement 
+bannner using exploration strategy.
+
+
+
+
+
+
+
+ 
